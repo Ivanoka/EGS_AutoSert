@@ -1,0 +1,15 @@
+EGS_CertificateSorter/input/**
+!EGS_CertificateSorter/input/.gitkeep
+EGS_CertificateSorter/output/**
+!EGS_CertificateSorter/output/.gitkeep
+
+EGS_CloudDownloader/accounts.json
+EGS_CloudDownloader/downloads/**
+!EGS_CloudDownloader/downloads/.gitkeep
+
+EGS_PhotoParser/debug/**
+!EGS_PhotoParser/debug/.gitkeep
+EGS_PhotoParser/output/**
+!EGS_PhotoParser/output/.gitkeep
+EGS_PhotoParser/photos/**
+!EGS_PhotoParser/photos/.gitkeep
