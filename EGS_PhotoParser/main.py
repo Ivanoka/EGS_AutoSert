@@ -147,6 +147,7 @@ def main():
 
                     record["login"] = login
                     record["password"] = password
+                    record["source_image"] = item["image"]
 
                     if store.add(record):
                         added += 1
